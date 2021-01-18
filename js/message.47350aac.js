@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["message"],{8942:function(e,s,n){},"8e2a":function(e,s,n){"use strict";n.r(s);var t=function(){var e=this,s=e.$createElement,n=e._self._c||s;return n("div",{staticClass:"message"},[e._v(" Message Page ")])},a=[],c={name:"Message"},u=c,i=(n("bd5c"),n("2877")),l=Object(i["a"])(u,t,a,!1,null,null,null);s["default"]=l.exports},bd5c:function(e,s,n){"use strict";n("8942")}}]);
+//# sourceMappingURL=message.47350aac.js.map
